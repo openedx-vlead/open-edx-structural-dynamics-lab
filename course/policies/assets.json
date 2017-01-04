@@ -1,0 +1,36 @@
+{
+    "quizconfig.js": {
+        "contentType": "application/javascript", 
+        "content_son": {
+            "category": "asset", 
+            "course": "SD", 
+            "name": "quizconfig.js", 
+            "org": "IIITH", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "quizconfig.js", 
+        "filename": "asset-v1:IIITH+SD+Anytime+type@asset+block@quizconfig.js", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "results.htm": {
+        "contentType": "text/html", 
+        "content_son": {
+            "category": "asset", 
+            "course": "SD", 
+            "name": "results.htm", 
+            "org": "IIITH", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "results.htm", 
+        "filename": "asset-v1:IIITH+SD+Anytime+type@asset+block@results.htm", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }
+}
