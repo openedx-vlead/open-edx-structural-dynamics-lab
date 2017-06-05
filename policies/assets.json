@@ -1,0 +1,26 @@
+{
+    "Structural_dynamics.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "SD", 
+            "name": "Structural_dynamics.jpg", 
+            "org": "IIIT-H", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Structural dynamics.jpg", 
+        "filename": "asset-v1:IIIT-H+SD+Anytime+type@asset+block@Structural_dynamics.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-H", 
+            "SD", 
+            "thumbnail", 
+            "Structural_dynamics.jpg", 
+            null
+        ]
+    }
+}

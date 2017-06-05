@@ -1,3 +1,6 @@
-<chapter display_name="Introduction"> 
+<chapter display_name="Introduction">
   <sequential url_name="Introduction_Introduction"/>
+  <sequential url_name="Introduction_Target_Audience"/>
+  <sequential url_name="Introduction_Courses_Aligned"/>
+  <sequential url_name="Introduction_Prerequisites"/>
 </chapter>

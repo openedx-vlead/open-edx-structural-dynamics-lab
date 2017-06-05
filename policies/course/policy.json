@@ -1,0 +1,48 @@
+{
+    "course/course": {
+        "course_image": "Structural dynamics.jpg", 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-IIITH-sd-course-sd"
+            }
+        }, 
+        "display_name": "Structural Dynamics", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "learning_info": [], 
+        "start": "2017-05-10T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
+    }
+}

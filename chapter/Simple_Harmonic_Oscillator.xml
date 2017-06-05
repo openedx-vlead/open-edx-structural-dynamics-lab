@@ -1,11 +1,11 @@
-<chapter display_name="Simple Harmonic Oscillator"> 
+<chapter display_name="Simple Harmonic Oscillator">
   <sequential url_name="Simple_Harmonic_Oscillator_Introduction"/>
   <sequential url_name="Simple_Harmonic_Oscillator_Theory"/>
   <sequential url_name="Simple_Harmonic_Oscillator_Objective"/>
-  <sequential url_name="Simple_Harmonic_Oscillator_Experiment"/>
   <sequential url_name="Simple_Harmonic_Oscillator_Manual"/>
-  <sequential url_name="Simple_Harmonic_Oscillator_Quizzes"/>
   <sequential url_name="Simple_Harmonic_Oscillator_Procedure"/>
+  <sequential url_name="Simple_Harmonic_Oscillator_Experiment"/>
+  <sequential url_name="Simple_Harmonic_Oscillator_Quizzes"/>
   <sequential url_name="Simple_Harmonic_Oscillator_Further_Readings"/>
   <sequential url_name="Simple_Harmonic_Oscillator_Feedback"/>
 </chapter>

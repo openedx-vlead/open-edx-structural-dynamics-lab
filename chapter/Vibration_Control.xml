@@ -1,11 +1,11 @@
-<chapter display_name="Vibration Control"> 
+<chapter display_name="Vibration Control">
   <sequential url_name="Vibration_Control_Introduction"/>
   <sequential url_name="Vibration_Control_Theory"/>
   <sequential url_name="Vibration_Control_Objective"/>
-  <sequential url_name="Vibration_Control_Experiment"/>
   <sequential url_name="Vibration_Control_Manual"/>
-  <sequential url_name="Vibration_Control_Quizzes"/>
   <sequential url_name="Vibration_Control_Procedure"/>
+  <sequential url_name="Vibration_Control_Experiment"/>
+  <sequential url_name="Vibration_Control_Quizzes"/>
   <sequential url_name="Vibration_Control_Further_Readings"/>
   <sequential url_name="Vibration_Control_Feedback"/>
 </chapter>
