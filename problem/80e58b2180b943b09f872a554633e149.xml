@@ -1,0 +1,35 @@
+<problem display_name="Multiple Choice" markdown=" 1. If center of mass and center of stiffness are located at same point then torsion will occur.&#10;() True&#10;(x) False&#10;&#10;2) Torsional response of structures could not be induced by structural eccentricities.&#10;() True&#10;(x) False&#10;&#10;3) If center of mass and center of stiffness are located in the same axis then torsion will occur in perpendicular axis.&#10;(x) True&#10;() False&#10;&#10;4) Torsion can be seen mainly in unsymmetrical buildings.&#10;(x) True&#10;() False&#10;&#10;">
+<p> 1. If center of mass and center of stiffness are located at same point then torsion will occur.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) Torsional response of structures could not be induced by structural eccentricities.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) If center of mass and center of stiffness are located in the same axis then torsion will occur in perpendicular axis.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) Torsion can be seen mainly in unsymmetrical buildings.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
