@@ -1,4 +1,4 @@
-<problem display_name="Multiple Choice" markdown=" 1. Response spectrum is the plot between time period and maximum displacement of building to a given ground motion.&#10;(x) True&#10;() False&#10;&#10;2) Time period controls maximum response.&#10;(x) True&#10;b) False&#10;&#10;3) Buildings of different size, shapes will always have different time periods.&#10;() True&#10;(x) False&#10;&#10;4) Spectrum values are independent of damping.&#10;() True&#10;(x) False&#10;&#10;5) Response spectrum is very useful for structural engineers in design.&#10;(x) True&#10;() False&#10;">
+<problem display_name="Multiple Choice" markdown=" 1. Response spectrum is the plot between time period and maximum displacement of building to a given ground motion.&#10;(x) True&#10;() False&#10;&#10;2) Time period controls maximum response.&#10;(x) True&#10;() False&#10;&#10;3) Buildings of different size, shapes will always have different time periods.&#10;() True&#10;(x) False&#10;&#10;4) Spectrum values are independent of damping.&#10;() True&#10;(x) False&#10;&#10;5) Response spectrum is very useful for structural engineers in design.&#10;(x) True&#10;() False&#10;" showanswer="always">
 <p> 1. Response spectrum is the plot between time period and maximum displacement of building to a given ground motion.</p>
 <multiplechoiceresponse>
   <choicegroup type="MultipleChoice">
@@ -11,10 +11,9 @@
 <multiplechoiceresponse>
   <choicegroup type="MultipleChoice">
     <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
   </choicegroup>
 </multiplechoiceresponse>
-
-<p>b) False</p>
 
 <p>3) Buildings of different size, shapes will always have different time periods.</p>
 <multiplechoiceresponse>
