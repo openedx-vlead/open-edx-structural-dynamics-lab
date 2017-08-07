@@ -1,43 +1,37 @@
 <problem display_name="Multiple Choice" markdown=" 1. Structures with shorter periods of vibration tend to reduce acceleration.&#10;() True&#10;(x) False&#10;&#10;2) Rollers are used in the Base isolation method.&#10;() True&#10;(x) False&#10;&#10;3) Active control devices incorporate real-time recoding instrumentation on the ground.&#10;(x) True&#10;() False&#10;&#10;4) Dampers stabilize against violent motion caused by harmonic motion.&#10;(x) True&#10;() False&#10;&#10;5) The TMD system relies on the sloshing wave developing at the free surface of the fluid to dissipate a portion of the dynamic energy.&#10;() True&#10;(x) False&#10;" showanswer="always">
-<p> 1. Structures with shorter periods of vibration tend to reduce acceleration.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) Rollers are used in the Base isolation method.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3) Active control devices incorporate real-time recoding instrumentation on the ground.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4) Dampers stabilize against violent motion caused by harmonic motion.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5) The TMD system relies on the sloshing wave developing at the free surface of the fluid to dissipate a portion of the dynamic energy.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> 1. Structures with shorter periods of vibration tend to reduce acceleration.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Rollers are used in the Base isolation method.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Active control devices incorporate real-time recoding instrumentation on the ground.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) Dampers stabilize against violent motion caused by harmonic motion.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) The TMD system relies on the sloshing wave developing at the free surface of the fluid to dissipate a portion of the dynamic energy.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

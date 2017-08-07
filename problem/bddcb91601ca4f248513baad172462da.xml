@@ -1,43 +1,37 @@
 <problem display_name="Multiple Choice" markdown=" 1. An impulse applied to a body causes its momentum to change and is equal to that change in momentum.&#10;(x) True&#10;() False&#10;&#10;2) Newton's third law applies, and the impulse on the colliding objects will be equal and opposite.&#10;(x) True&#10;() False&#10;&#10;3) Momentum is the product of the mass and acceleration of an object.&#10;() True&#10;(x) False&#10;&#10;4) During the force-rise phase the system oscillates at the natural period about the static solution&#10;() True&#10;(x) False&#10;&#10;5) If the velocity is zero at the end of the ramp, the system vibrates during constant-force phase&#10;(x) True&#10;() False&#10;" showanswer="always">
-<p> 1. An impulse applied to a body causes its momentum to change and is equal to that change in momentum.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) Newton's third law applies, and the impulse on the colliding objects will be equal and opposite.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3) Momentum is the product of the mass and acceleration of an object.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4) During the force-rise phase the system oscillates at the natural period about the static solution</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5) If the velocity is zero at the end of the ramp, the system vibrates during constant-force phase</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> 1. An impulse applied to a body causes its momentum to change and is equal to that change in momentum.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Newton's third law applies, and the impulse on the colliding objects will be equal and opposite.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Momentum is the product of the mass and acceleration of an object.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) During the force-rise phase the system oscillates at the natural period about the static solution</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) If the velocity is zero at the end of the ramp, the system vibrates during constant-force phase</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

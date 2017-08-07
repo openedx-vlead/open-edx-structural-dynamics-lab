@@ -1,4 +1,4 @@
-<course course_image="Structural dynamics.jpg" display_name="Structural Dynamics" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]" start="&quot;2017-05-10T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" course_image="Structural dynamics.jpg" display_name="Structural Dynamics" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]" start="&quot;2017-05-10T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="Simple_Harmonic_Oscillator"/>
   <chapter url_name="Free_Vibration_of_S.D.O.F_System"/>

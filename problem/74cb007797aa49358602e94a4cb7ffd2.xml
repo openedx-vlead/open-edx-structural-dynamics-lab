@@ -1,43 +1,37 @@
 <problem display_name="Multiple Choice" markdown=" 1. Amplitude of forced vibration depends on initial conditions.&#10;() True&#10;(x) False&#10;&#10;2) We get peak response when structure is forced to vibrate at its natural frequency.&#10;(x) True&#10;() False&#10;&#10;3) Amplitude of vibration increasing when frequency ration if greater than 1.&#10;() True&#10;(x) False&#10;&#10;4) Maximum response of the structure will be different for different earthquakes.&#10;(x) True&#10;() False&#10;&#10;5) Undamped structure will become unstable if it is vibrating at resonating frequency.&#10;(x) True&#10;() False&#10;" showanswer="always">
-<p> 1. Amplitude of forced vibration depends on initial conditions.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) We get peak response when structure is forced to vibrate at its natural frequency.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3) Amplitude of vibration increasing when frequency ration if greater than 1.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4) Maximum response of the structure will be different for different earthquakes.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5) Undamped structure will become unstable if it is vibrating at resonating frequency.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> 1. Amplitude of forced vibration depends on initial conditions.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) We get peak response when structure is forced to vibrate at its natural frequency.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Amplitude of vibration increasing when frequency ration if greater than 1.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) Maximum response of the structure will be different for different earthquakes.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Undamped structure will become unstable if it is vibrating at resonating frequency.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

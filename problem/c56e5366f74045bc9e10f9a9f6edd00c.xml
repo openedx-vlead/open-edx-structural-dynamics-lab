@@ -1,27 +1,23 @@
 <problem display_name="Multiple Choice" markdown=" 1. In continuous system the material properties are same throughout the section&#10;(x) True&#10;() False&#10;&#10;2) Dimensions of the members are same throughout the structure in continuous system.&#10;() True&#10;(x) False&#10;&#10;3) Using generalized mass and stiffness we can know response.&#10;(x) True&#10;() False&#10;" showanswer="always">
-<p> 1. In continuous system the material properties are same throughout the section</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) Dimensions of the members are same throughout the structure in continuous system.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3) Using generalized mass and stiffness we can know response.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> 1. In continuous system the material properties are same throughout the section</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Dimensions of the members are same throughout the structure in continuous system.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Using generalized mass and stiffness we can know response.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

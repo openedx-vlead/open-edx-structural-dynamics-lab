@@ -1,5 +1,6 @@
 {
     "course/course": {
+        "advertised_start": "Anytime", 
         "course_image": "Structural dynamics.jpg", 
         "discussion_topics": {
             "General": {
