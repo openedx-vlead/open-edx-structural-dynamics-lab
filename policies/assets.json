@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "SD", 
+            "course": "civil26", 
             "name": "Structural_dynamics.jpg", 
-            "org": "IIIT-H", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Structural dynamics.jpg", 
-        "filename": "asset-v1:IIIT-H+SD+Anytime+type@asset+block@Structural_dynamics.jpg", 
+        "filename": "asset-v1:Virtual-Labs+civil26+Anytime+type@asset+block@Structural_dynamics.jpg", 
         "import_path": "Structural dynamics.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-H", 
-            "SD", 
+            "Virtual-Labs", 
+            "civil26", 
             "thumbnail", 
             "Structural_dynamics.jpg", 
             null
